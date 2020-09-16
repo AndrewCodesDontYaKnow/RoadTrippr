@@ -40,9 +40,13 @@ Trueway Places - https://rapidapi.com/trueway/api/trueway-places
   
   ## <a id='Credits' style='color:white;'>Credits</a>
 Contributors
+
 Andrew Smith - https://github.com/AndrewCodesDontYaKnow
+
 Emilee Reiter - https://github.com/emileereiter
+
 Nathan Szurek - https://github.com/NathanSzu/
+
 Zeke Enyart - https://github.com/ezekielenyart
 
   
