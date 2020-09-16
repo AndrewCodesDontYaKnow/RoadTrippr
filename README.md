@@ -22,7 +22,6 @@
   <a href='#License'>License</a>
   
   Screenshot of Road Trippr's Planning Page
- <img src="https://raw.githubusercontent.com/NathanSzu/RoadTrippr/master/Assets/roadTripprSS.png">
  ![RoadTrippr screenshot](./img/planningpage.png)
 
 
