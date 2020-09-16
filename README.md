@@ -23,6 +23,7 @@
   
   Screenshot of Road Trippr's Planning Page
  <img src="https://raw.githubusercontent.com/NathanSzu/RoadTrippr/master/Assets/roadTripprSS.png">
+ ![RoadTrippr screenshot](./img/planningpage.png)
 
 
   ## <a id='Tools Used' style='color:white;'>Tools Used</a>
