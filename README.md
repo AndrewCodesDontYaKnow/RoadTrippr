@@ -21,7 +21,7 @@
   
   <a href='#License'>License</a>
   
-  Screenshot of Road Trippr's Planning Page
+  Screenshot of RoadTrippr's Planning Page
  ![RoadTrippr screenshot](./img/planningpage.png)
 
 
